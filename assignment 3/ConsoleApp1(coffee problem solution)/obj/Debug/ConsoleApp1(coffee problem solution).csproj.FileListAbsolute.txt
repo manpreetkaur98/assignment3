@@ -1,0 +1,7 @@
+C:\Users\Manpreet Kaur\Desktop\C#\C# practice\ConsoleApp1(coffee problem solution)\ConsoleApp1(coffee problem solution)\bin\Debug\ConsoleApp1(coffee problem solution).exe.config
+C:\Users\Manpreet Kaur\Desktop\C#\C# practice\ConsoleApp1(coffee problem solution)\ConsoleApp1(coffee problem solution)\bin\Debug\ConsoleApp1(coffee problem solution).exe
+C:\Users\Manpreet Kaur\Desktop\C#\C# practice\ConsoleApp1(coffee problem solution)\ConsoleApp1(coffee problem solution)\bin\Debug\ConsoleApp1(coffee problem solution).pdb
+C:\Users\Manpreet Kaur\Desktop\C#\C# practice\ConsoleApp1(coffee problem solution)\ConsoleApp1(coffee problem solution)\obj\Debug\ConsoleApp1(coffee problem solution).csprojAssemblyReference.cache
+C:\Users\Manpreet Kaur\Desktop\C#\C# practice\ConsoleApp1(coffee problem solution)\ConsoleApp1(coffee problem solution)\obj\Debug\ConsoleApp1(coffee problem solution).csproj.CoreCompileInputs.cache
+C:\Users\Manpreet Kaur\Desktop\C#\C# practice\ConsoleApp1(coffee problem solution)\ConsoleApp1(coffee problem solution)\obj\Debug\ConsoleApp1(coffee problem solution).exe
+C:\Users\Manpreet Kaur\Desktop\C#\C# practice\ConsoleApp1(coffee problem solution)\ConsoleApp1(coffee problem solution)\obj\Debug\ConsoleApp1(coffee problem solution).pdb
